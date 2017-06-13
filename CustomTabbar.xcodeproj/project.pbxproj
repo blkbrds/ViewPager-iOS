@@ -14,7 +14,6 @@
 		CA784D361EEFE86000A74C00 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA784D2A1EEFE86000A74C00 /* LaunchScreen.storyboard */; };
 		CA784D371EEFE86000A74C00 /* DemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA784D2C1EEFE86000A74C00 /* DemoViewController.swift */; };
 		CA784D381EEFE86000A74C00 /* DemoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CA784D2D1EEFE86000A74C00 /* DemoViewController.xib */; };
-		CA784D391EEFE86000A74C00 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CA784D2E1EEFE86000A74C00 /* Info.plist */; };
 		CA784D3A1EEFE86000A74C00 /* TabbarItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA784D2F1EEFE86000A74C00 /* TabbarItemView.swift */; };
 		CA784D3B1EEFE86000A74C00 /* TabbarItemView.xib in Resources */ = {isa = PBXBuildFile; fileRef = CA784D301EEFE86000A74C00 /* TabbarItemView.xib */; };
 		CA784D3C1EEFE86000A74C00 /* TabbarCustom.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA784D321EEFE86000A74C00 /* TabbarCustom.swift */; };
@@ -51,7 +50,6 @@
 		CA784D2B1EEFE86000A74C00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CA784D2C1EEFE86000A74C00 /* DemoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DemoViewController.swift; sourceTree = "<group>"; };
 		CA784D2D1EEFE86000A74C00 /* DemoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DemoViewController.xib; sourceTree = "<group>"; };
-		CA784D2E1EEFE86000A74C00 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CA784D2F1EEFE86000A74C00 /* TabbarItemView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabbarItemView.swift; sourceTree = "<group>"; };
 		CA784D301EEFE86000A74C00 /* TabbarItemView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TabbarItemView.xib; sourceTree = "<group>"; };
 		CA784D321EEFE86000A74C00 /* TabbarCustom.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabbarCustom.swift; sourceTree = "<group>"; };
@@ -130,7 +128,6 @@
 				CA784D2A1EEFE86000A74C00 /* LaunchScreen.storyboard */,
 				CA784D2C1EEFE86000A74C00 /* DemoViewController.swift */,
 				CA784D2D1EEFE86000A74C00 /* DemoViewController.xib */,
-				CA784D2E1EEFE86000A74C00 /* Info.plist */,
 				CA784D2F1EEFE86000A74C00 /* TabbarItemView.swift */,
 				CA784D301EEFE86000A74C00 /* TabbarItemView.xib */,
 			);
@@ -253,7 +250,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CA784D391EEFE86000A74C00 /* Info.plist in Resources */,
 				CA784D351EEFE86000A74C00 /* Assets.xcassets in Resources */,
 				CA784D381EEFE86000A74C00 /* DemoViewController.xib in Resources */,
 				CA784D3B1EEFE86000A74C00 /* TabbarItemView.xib in Resources */,

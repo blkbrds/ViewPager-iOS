@@ -88,7 +88,6 @@ class TabbarCustomViewController: UIViewController {
         view.addSubview(tabbarView)
         tabbarView.numberItem = viewControllers.count
         tabbarView.indexSelect  = selectedIndex
-        self.view.backgroundColor = UIColor.blue
     }
 }
 
